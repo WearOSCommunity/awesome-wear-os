@@ -1,42 +1,28 @@
-# Awesome Wear OS
+# Awesome Wear OS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Wear OS apps, tools, and resources.
 
-### Submit your project
+<!--
+#### Submit your project
 
 We welcome all Wear OS projects - free, paid, open or closed source! Check out our [contribution guidelines](CONTRIBUTING.md) to add your project!
+-->
+## Contents
 
-### Table of Contents
-
-- [Awesome Wear OS](#awesome-wear-os)
-  - [Submit your project](#submit-your-project)
-  - [Table of Contents](#table-of-contents)
-  - [Legend](#legend)
-    - [Source](#source)
-  - [Apps](#apps)
-    - [Entertainment](#entertainment)
-    - [Health \& Fitness](#health--fitness)
-    - [Utilities](#utilities)
-  - [Tools](#tools)
-    - [Watch Faces](#watch-faces)
-    - [Guides](#guides)
-    - [Design Guidelines](#design-guidelines)
-
-### Legend
-
-#### Source
-
-- `🔓` = Open-source (code is publicly available)
-- `🔒` = Closed-source (code is private)
-
-> [!TIP]
-> "Source" refers to the code that runs the app.
+- [Apps](#apps)
+  - [Entertainment](#entertainment)
+  - [Health & Fitness](#health--fitness)
+  - [Utilities](#utilities)
+- [Tools](#tools)
+  - [Watch Faces](#watch-faces)
+  - [Guides](#guides)
+  - [Design Guidelines](#design-guidelines)
 
 ## Apps
 
 ### Entertainment
 
-- [Wear Cats](https://play.google.com/store/apps/details?id=com.turtlepaw.cats) ([source code](https://github.com/Turtlepaw/wear-cats)) `🔓`
+- [Wear Cats](https://play.google.com/store/apps/details?id=com.turtlepaw.cats) - Discover a delightful world of cats and bunnies right on your Wear OS watch. ([source code](https://github.com/Turtlepaw/wear-cats))
 
 <details open>
 <summary>🪙 Apps with in app purchases (IAP)</summary>
@@ -48,14 +34,14 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Health & Fitness
 
-- [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) ([source code](https://github.com/gondwanasoft/wear-os-on-track/tree/master)) `🔓`
+- [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) - *No description provided*. ([source code](https://github.com/gondwanasoft/wear-os-on-track/tree/master))
 
 ### Utilities
 
 - [rhaeus/dnd-sync](https://github.com/rhaeus/dnd-sync) - About
-  Sync DND state between Android phone and watch `🔓`
-  - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and Bedtime mode between Android phone and watch `🔓`
-    - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork of [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) `🔓`
+  Sync DND state between Android phone and watch.
+  - [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) - Sync DND state and Bedtime mode between Android phone and watch.
+    - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork with improvements.
 
 ## Tools
 
