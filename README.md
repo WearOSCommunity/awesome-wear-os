@@ -13,6 +13,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
    - [Entertainment](#entertainment)
    - [Health & Fitness](#health--fitness)
    - [Utilities](#utilities)
+   - [Weather](#weather)
 - [Tools](#tools)
    - [Watch Faces](#watch-faces)
    - [Guides](#guides)
@@ -50,12 +51,17 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
     - [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) - Material 3 fork with improvements.
 - [Watchcat](https://github.com/AuroraRAS/watchcat) - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
 - [Offline Password Manager](https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager) - Minimalistic & secure password manager with phone app. [(source code)](https://github.com/jagadeesh-k-2802/password-manager-compose)
+- [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - Control simple actions on your Android device from your Wear OS Watch. [(source code)](https://github.com/SimpleAppProjects/SimpleWear)
 
 <details>
 <summary>💰 Paid apps</summary>
 
 - [Offline Dictionary - English](https://play.google.com/store/apps/details?id=com.jackappsdev.dictionary_wear_en) - Access dictionary anytime, anywhere without internet on your wrist.
 </details>
+
+### Weather
+
+- [SimpleWeather](https://play.google.com/store/apps/details?id=com.thewizrd.simpleweather) - Get your current forecast with additional features. [(source code)](https://github.com/SimpleAppProjects/SimpleWeather-Android)
 
 ## Tools
 
