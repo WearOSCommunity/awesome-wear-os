@@ -63,6 +63,10 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 - [SimpleWeather](https://play.google.com/store/apps/details?id=com.thewizrd.simpleweather) - Get your current forecast with additional features. [(source code)](https://github.com/SimpleAppProjects/SimpleWeather-Android)
 
+### Music Players
+
+- [Cassette](https://github.com/adamniederer/cassette) - A local music player for Wear OS. [(source code)](https://github.com/adamniederer/cassette)
+
 ## Tools
 
 ### Watch Faces
