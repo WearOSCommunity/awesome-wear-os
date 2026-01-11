@@ -14,6 +14,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
    - [Health & Fitness](#health--fitness)
    - [Utilities](#utilities)
    - [Weather](#weather)
+   - [Music Players](#music-players)
 - [Tools](#tools)
    - [Watch Faces](#watch-faces)
    - [Guides](#guides)
@@ -65,7 +66,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Music Players
 
-- [Cassette](https://github.com/adamniederer/cassette) - A local music player for Wear OS. [(source code)](https://github.com/adamniederer/cassette)
+- [Cassette](https://github.com/AdamNiederer/cassette/releases) - A local music player for Wear OS. [(source code)](https://github.com/adamniederer/cassette)
 
 ## Tools
 
