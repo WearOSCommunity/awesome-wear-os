@@ -53,6 +53,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 - [Watchcat](https://github.com/AuroraRAS/watchcat) - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
 - [Offline Password Manager](https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager) - Minimalistic & secure password manager with phone app. [(source code)](https://github.com/jagadeesh-k-2802/password-manager-compose)
 - [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - Control simple actions on your Android device from your Wear OS Watch. [(source code)](https://github.com/SimpleAppProjects/SimpleWear)
+- [Svartifoss](https://github.com/gabrielluizone/Svartifoss) - A customizable media controller for Wear OS. [(source code)](https://github.com/gabrielluizone/Svartifoss)
 
 <details>
 <summary>💰 Paid apps</summary>
