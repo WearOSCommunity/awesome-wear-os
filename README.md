@@ -81,7 +81,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 ### Guides
 
 - [Create and run an app on Wear OS by Android](https://developer.android.com/training/wearables/get-started/creating)
-- [Galaxy Watch with an iPhone, without a Google or Samsung account](https://github.com/chackrahunter/herold/tree/main/docs) - Pairing and running a Samsung Galaxy Watch without any account, plus building and installing APKs without Gradle or Android Studio. (German)
+- [Galaxy Watch with an iPhone, without a Google or Samsung account](https://github.com/chackrahunter/herold/tree/master/docs) - Pairing and running a Samsung Galaxy Watch without any account, plus building and installing APKs without Gradle or Android Studio. (German)
 
 ### Design Guidelines
 
