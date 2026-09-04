@@ -53,7 +53,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 - [Watchcat](https://github.com/AuroraRAS/watchcat) - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
 - [Offline Password Manager](https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager) - Minimalistic & secure password manager with phone app. [(source code)](https://github.com/jagadeesh-k-2802/password-manager-compose)
 - [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - Control simple actions on your Android device from your Wear OS Watch. [(source code)](https://github.com/SimpleAppProjects/SimpleWear)
-- [Herold](https://github.com/chackrahunter/herold) - Toolkit for using a Galaxy Watch with an iPhone and no Google account: iPhone notifications over ANCS, health measurements, an account-free app store and a watch face.
+- [Herold](https://github.com/chackrahunter/herold/releases) - Toolkit for using a Galaxy Watch with an iPhone and no Google account: iPhone notifications over ANCS, health measurements, an account-free app store and a watch face. [(source code)](https://github.com/chackrahunter/herold)
 
 <details>
 <summary>💰 Paid apps</summary>
@@ -81,7 +81,6 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 ### Guides
 
 - [Create and run an app on Wear OS by Android](https://developer.android.com/training/wearables/get-started/creating)
-- [Galaxy Watch with an iPhone, without a Google or Samsung account](https://github.com/chackrahunter/herold/tree/master/docs) - Pairing and running a Samsung Galaxy Watch without any account, plus building and installing APKs without Gradle or Android Studio. (German)
 
 ### Design Guidelines
 
