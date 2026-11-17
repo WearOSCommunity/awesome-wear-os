@@ -37,6 +37,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 ### Health & Fitness
 
 - [On Track](https://play.google.com/store/apps/details?id=au.gondwanasoftware.ontrack) - Compare activity with expected achievement at the current time, includes tiles and complications. [(source code)](https://github.com/gondwanasoft/wear-os-on-track/tree/master)
+- [TennisScore](https://play.google.com/store/apps/details?id=it.precisesoft.tennisscore) - Scoreboard for tennis, padel and pickleball: tap the watch to give the point with the phone in your pocket, with heart rate and steps in the match stats.
 
 <details open>
 <summary>🪙 Apps with in app purchases (IAP)</summary>
