@@ -44,6 +44,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 > - [Empirical Health](https://play.google.com/store/apps/details?id=com.empiricalhealth.EmpiricalHealth) - Optimize your heart health using your WearOS data, including working with real doctors.
 
 </details>
+- [TennisScore](https://play.google.com/store/apps/details?id=it.precisesoft.tennisscore) - Scoreboard for tennis, padel and pickleball: tap the watch to give the point with the phone in your pocket, with heart rate and steps in the match stats.
 
 ### Utilities
 
